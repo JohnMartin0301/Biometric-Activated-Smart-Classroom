@@ -19,8 +19,8 @@ This project is a **smart classroom system** designed for enhanced **security**,
 
 ---
 
-### Break Timer
-- Users can take a **short break (15 seconds max)**.
+### Break Time
+- Users can take a **short break (15 seconds max - for demonstration)**.
 - If the user doesn’t return within 15 seconds:
   - Their **access is temporarily blocked**.
   - System **resets access** after the session ends.
@@ -66,7 +66,7 @@ This project is a **smart classroom system** designed for enhanced **security**,
 
 ---
 
-## How It Works (Simplified)
+## How It Works
 - The system checks **fingerprints** to open the door and turn on the room devices.
 - Students can only get inside if a **professor/staff is already there**.
 - **RFID** is used to keep track of borrowed/returned equipment.
