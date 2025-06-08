@@ -6,9 +6,7 @@ This project is a **smart classroom system** designed for enhanced **security**,
 
 ---
 
-<p align="center">
-  <img src="Biometric-Activated Smart Classroom" alt="Biometric-Activated Smart Classroom" width="600"/>
-</p>
+![Biometric-Activated Smart Classroom](https://github.com/user-attachments/assets/512086fc-2c0d-443a-bb52-5a304348b961)
 
 ## Features and Functionalities
 
